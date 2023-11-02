@@ -17,11 +17,11 @@ This project implements a responsive and interactive web page that displays a li
 
 ## How to Run the Project
 
-1. Clone this repository to your local machine using `git clone <repository-url>`.
+1. Clone this repository to your local machine using `git clone <[repository-url](https://github.com/arunpratapsingh12/Assignment_Devtown)>`.
 2. Navigate to the project directory using .
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm run dev`.
-5. Open your browser and visit `http://localhost:3000` to view the application.
+5. Open your browser and visit `[http://localhost:3000](http://localhost:5173/)` to view the application.
 
 ## Project Structure
 
@@ -33,6 +33,6 @@ This project implements a responsive and interactive web page that displays a li
 
 ## Repository Link
 
-The project is hosted on GitHub. You can access it using the following link: [Interactive Product List](https://github.com/username/interactive-product-list)
+The project is hosted on GitHub. You can access it using the following link: [Interactive Product List](https://github.com/arunpratapsingh12/Assignment_Devtown)
 
 Feel free to explore the code and provide any feedback or suggestions for improvement.
