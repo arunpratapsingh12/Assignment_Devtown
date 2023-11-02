@@ -22,7 +22,7 @@ This project implements a responsive and interactive web page that displays a li
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm run dev`.
 5. Open your browser and visit `[http://localhost:3000](http://localhost:5173/)` to view the application.
-6. Application is live you can check the Product list [live link].(https://product-list-2799.onrender.com/).
+6. Application is live you can check the Product list Link : [Product List live link](https://product-list-2799.onrender.com/)
 
 ## Project Structure
 
